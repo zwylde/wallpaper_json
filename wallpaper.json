@@ -1,0 +1,23 @@
+{
+  "wallpapers": [
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall1.jpg",
+      "thumbUrl": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall1.jpg",
+      "name": "wall1"
+    },
+    {
+       "author": "Tom Wellington",
+      "url": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall2.jpg",
+      "thumbUrl": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall2.jpg",
+      "name": "wall2"
+    },
+    {
+       "author": "Tom Wellington",
+      "url": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall3.jpg",
+      "thumbUrl": "https://github.com/zwylde/TheMixtureWalls_json/blob/master/wall3.jpg",
+      "name": "wall3"
+    }
+  ]
+}
+
