@@ -1,21 +1,21 @@
 {
   "Wallpapers": [
     {
-      "author": "Tom Wellington",
+      "author": "unknown",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
       "name": "wall1"
     },
     {
-       "author": "Tom Wellington",
-      "url": "https://github.com/zwylde/wallpaper_json/blob/master/wall2.jpg",
-      "thumbUrl": "https://github.com/zwylde/wallpaper_json/blob/master/wall2.jpg",
+       "author": "unknown",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall2.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall2.jpg",
       "name": "wall2"
     },
     {
-       "author": "Tom Wellington",
-      "url": "https://github.com/zwylde/wallpaper_json/blob/master/wall3.jpg",
-      "thumbUrl": "https://github.com/zwylde/wallpaper_json/blob/master/wall3.jpg",
+       "author": "unknown",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall3.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall3.jpg",
       "name": "wall3"
     }
   ]
