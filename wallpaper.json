@@ -2,8 +2,8 @@
   "Wallpapers": [
     {
       "author": "Tom Wellington",
-      "url": "https://github.com/zwylde/wallpaper_json/blob/master/wall1.jpg",
-      "thumbUrl": "https://github.com/zwylde/wallpaper_json/blob/master/wall1.jpg",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
       "name": "wall1"
     },
     {
