@@ -36,6 +36,12 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall6.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall6_thumb.jpg",
       "name": "wall6"
+    },
+	 {
+       "author": "Jay DarkSide Rod",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall7.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall7_thumb.jpg",
+      "name": "wall7"
     }
   ]
 }
