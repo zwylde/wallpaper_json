@@ -1,5 +1,6 @@
 {
-  "Wallpapers": [
+  "Wallpapers": 
+  [
     {
       "author": "unknown",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
@@ -11,7 +12,7 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall2.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall2.jpg",
       "name": "wall2"
-    },
+    }
     {
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall3.jpg",
@@ -23,13 +24,13 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall4.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall4.jpg",
       "name": "wall4"
-    },
+    }
     {
        "author": "Jay DarkSide Rod",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall5.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall5.jpg",
       "name": "wall5"
-    },
+    }
     {
        "author": "Jay DarkSide Rod",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall6.jpg",
