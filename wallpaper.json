@@ -67,11 +67,17 @@
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall11_thumb.jpg",
       "name": "wall11"
     },
-	 {
-       "author": "zwylde",
+	{
+       "author": "unknown edited by zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall12.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall12_thumb.jpg",
       "name": "wall12"
+    },
+	 {
+       "author": "kirsty pargeter",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall13.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall13_thumb.jpg",
+      "name": "wall13"
     }
   ]
 }
