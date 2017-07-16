@@ -74,16 +74,40 @@
       "name": "wall12"
     },
 	{
-       "author": "unknown edited by zwylde",
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall13.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall13_thumb.jpg",
+      "name": "wall13"
+    },
+	{
+       "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall14.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall14_thumb.jpg",
       "name": "wall14"
     },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall15.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall15_thumb.jpg",
+      "name": "wall15"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall16.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall16_thumb.jpg",
+      "name": "wall16"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall17.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall17_thumb.jpg",
+      "name": "wall17"
+    },
 	 {
-       "author": "kirsty pargeter",
-      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall13.jpg",
-      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall13_thumb.jpg",
-      "name": "wall13"
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall18.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall18_thumb.jpg",
+      "name": "wall18"
     }
   ]
 }
