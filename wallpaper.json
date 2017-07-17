@@ -108,6 +108,12 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall18.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall18_thumb.jpg",
       "name": "wall18"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall19.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall19_thumb.jpg",
+      "name": "wall19"
     }
   ]
 }
