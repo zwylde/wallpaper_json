@@ -126,6 +126,12 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall21.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall21_thumb.jpg",
       "name": "wall21"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall22.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall22_thumb.jpg",
+      "name": "wall22"
     }
   ]
 }
