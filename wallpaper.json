@@ -168,7 +168,38 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall28.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall28_thumb.jpg",
       "name": "wall28"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall29.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall29_thumb.jpg",
+      "name": "wall29"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall30.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall30_thumb.jpg",
+      "name": "wall30"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall31.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall31_thumb.jpg",
+      "name": "wall31"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall32.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall32_thumb.jpg",
+      "name": "wall32"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall33.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall33_thumb.jpg",
+      "name": "wall33"
     }
+  ]
   ]
 }
 
