@@ -198,8 +198,19 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall33.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall33_thumb.jpg",
       "name": "wall33"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall34.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall34_thumb.jpg",
+      "name": "wall34"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall35.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall35_thumb.jpg",
+      "name": "wall35"
     }
-  ]
   ]
 }
 
