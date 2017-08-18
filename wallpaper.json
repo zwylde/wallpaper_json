@@ -2,6 +2,36 @@
   "wallpapers": 
   [
     {
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_red.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_red_thumb.jpg",
+      "name": "claws_red"
+    },
+    {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d_thumb.jpg",
+      "name": "material_3d"
+    },
+	 {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc_thumb.jpg",
+      "name": "material_3dc"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3do.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3do_thumb.jpg",
+      "name": "material_3do"
+    },
+	 {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp_thumb.jpg",
+      "name": "material_3dp"
+    },
+	{
       "author": "unknown",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall1.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall1_thumb.jpg",
