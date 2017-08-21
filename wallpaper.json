@@ -3,9 +3,39 @@
   [
     {
       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_blue.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_blue_thumb.jpg",
+      "name": "claws_blue"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_orange.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_orange_thumb.jpg",
+      "name": "claws_orange"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_pink.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_pink_thumb.jpg",
+      "name": "claws_pink"
+    },
+	{
+      "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_red.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_red_thumb.jpg",
       "name": "claws_red"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_white.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_white_thumb.jpg",
+      "name": "claws_white"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_yellow.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_yellow_thumb.jpg",
+      "name": "claws_yellow"
     },
     {
        "author": "zwylde",
