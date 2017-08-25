@@ -3,6 +3,12 @@
   [
     {
       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/3d_lights.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/3d_lights_thumb.jpg",
+      "name": "3d_lights"
+    },
+	{
+      "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_blue.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_blue_thumb.jpg",
       "name": "claws_blue"
