@@ -51,6 +51,24 @@
     },
 	{
       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/3d_squares.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/3d_squares_thumb.jpg",
+      "name": "3d_squares"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/3d_tech_black.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/3d_tech_black_thumb.jpg",
+      "name": "3d_tech_black"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/3d_tech_blue.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/3d_tech_blue_thumb.jpg",
+      "name": "3d_tech_blue"
+    },
+	{
+      "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_orange.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_orange_thumb.jpg",
       "name": "claws_orange"
@@ -79,13 +97,19 @@
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_yellow_thumb.jpg",
       "name": "claws_yellow"
     },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/gnr.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/gnr_thumb.jpg",
+      "name": "gnr"
+    },
     {
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d_thumb.jpg",
       "name": "material_3d"
     },
-	 {
+	{
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc_thumb.jpg",
@@ -102,6 +126,96 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp_thumb.jpg",
       "name": "material_3dp"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/claws_yellow.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/claws_yellow_thumb.jpg",
+      "name": "claws_yellow"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/gnr.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/gnr_thumb.jpg",
+      "name": "gnr"
+    },
+    {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3d_thumb.jpg",
+      "name": "material_3d"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dc_thumb.jpg",
+      "name": "material_3dc"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3do.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3do_thumb.jpg",
+      "name": "material_3do"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp_thumb.jpg",
+      "name": "material_3dp"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_artic.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_artic_thumb.jpg",
+      "name": "punisher_artic"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_blue.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_blue_thumb.jpg",
+      "name": "punisher_blue"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_orange.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_orange_thumb.jpg",
+      "name": "punisher_orange"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_pink.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_pink_thumb.jpg",
+      "name": "punisher_pink"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_red.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_red_thumb.jpg",
+      "name": "punisher_red"
+    },
+    {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_slate.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_slate_thumb.jpg",
+      "name": "punisher_slate"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_yellow.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/punisher_yellow_thumb.jpg",
+      "name": "punisher_yellow"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/squad.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/squad_thumb.jpg",
+      "name": "squad"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/suicide_love.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/suicide_love_thumb.jpg",
+      "name": "suicide_love"
     },
 	{
       "author": "unknown",
@@ -139,7 +253,7 @@
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall6_thumb.jpg",
       "name": "wall6"
     },
-	 {
+	{
        "author": "Jay DarkSide Rod",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall7.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall7_thumb.jpg",
@@ -157,7 +271,7 @@
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall9_thumb.jpg",
       "name": "wall9"
     },
-	 {
+	{
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall10.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall10_thumb.jpg",
@@ -205,7 +319,7 @@
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall17_thumb.jpg",
       "name": "wall17"
     },
-	 {
+	{
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/wall18.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/wall18_thumb.jpg",
