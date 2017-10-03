@@ -134,10 +134,46 @@
       "name": "claws_yellow"
     },
 	{
+      "author": "unknown",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/dark_jedi.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/dark_jedi_thumb.jpg",
+      "name": "dark_jedi"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/dark_tech.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/dark_tech_thumb.jpg",
+      "name": "dark_tech"
+    },
+	{
       "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/gnr.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/gnr_thumb.jpg",
       "name": "gnr"
+    },
+    {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/hellboy.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/hellboy_thumb.jpg",
+      "name": "hellboy"
+    },
+	{
+       "author": "unknown",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/joker.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/joker_thumb.jpg",
+      "name": "joker"
+    },
+	{
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/lowpoly_blue.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/lowpoly_blue_thumb.jpg",
+      "name": "lowpoly_blue"
+    },
+	 {
+       "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/lowpoly_black.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/lowpoly_black_thumb.jpg",
+      "name": "lowpoly_black"
     },
     {
        "author": "zwylde",
@@ -162,6 +198,24 @@
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/material_3dp_thumb.jpg",
       "name": "material_3dp"
+    },
+	{
+      "author": "unknown",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/megatron.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/megatron_thumb.jpg",
+      "name": "megatron"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/Neutral.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/Neutral_thumb.jpg",
+      "name": "Neutral"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/Neutral1.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/Neutral1_thumb.jpg",
+      "name": "Neutral1"
     },
 	{
        "author": "zwylde",
@@ -206,10 +260,40 @@
       "name": "punisher_yellow"
     },
 	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/retro_batman.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/retro_batman_thumb.jpg",
+      "name": "retro_batman"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/retro_city.jpg",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/retro_city_thumb.jpg",
+      "name": "retro_city"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/retro_dblurred.png",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/retro_dblurred.png",
+      "name": "retro_dblurred"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/retro_dblurred1.png",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/retro_dblurred1_thumb.png",
+      "name": "retro_dblurred1"
+    },
+	{
        "author": "zwylde",
       "url": "https://github.com/zwylde/wallpaper_json/raw/master/squad.jpg",
       "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/squad_thumb.jpg",
       "name": "squad"
+    },
+	{
+      "author": "zwylde",
+      "url": "https://github.com/zwylde/wallpaper_json/raw/master/suicide_gothic.png",
+      "thumbUrl": "https://github.com/zwylde/wallpaper_json/raw/master/suicide_gothic_thumb.png",
+      "name": "suicide_gothic"
     },
 	{
        "author": "zwylde",
